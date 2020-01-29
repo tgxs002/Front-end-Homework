@@ -1,9 +1,11 @@
-# BigHome
-front-end final work by cocosStudio
+# Front-end Homework
+A WeChat STG game.
+# Team members
+Xiaoshi Wu
+Siyu Li
 # feature
-a shooting game,
-when you shoot, you move
+This is an interesting STG game, which is quite different from the normal ones. Because when you shoot, you will be pushed to the opposite direction. Also, this will be the only way you move. Try to survive. Go ahead!
 # to the lower class
-wish you survive junior year in THUSS:)
+Wish you survive junior year in THUSS:)
 # final
-most thanks to tgxs, the homework is mainly developed by him.
+Most thanks to tgxs002, the homework is mainly developed by him.
