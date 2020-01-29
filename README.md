@@ -1,4 +1,5 @@
 # Front-end Homework
+![image](welcome.PNG)
 A WeChat STG game.
 # Team members
 Xiaoshi Wu and Siyu Li
