@@ -1,8 +1,8 @@
 # Front-end Homework
-![image](welcome.PNG)
+![image](welcome.PNG)<br />
 A WeChat STG game.
 # Team members
-Xiaoshi Wu and Siyu Li
+Xiaoshi Wu<br />Siyu Li
 # feature
 This is an interesting STG game, which is quite different from the normal ones. Because when you shoot, you will be pushed to the opposite direction. Also, this will be the only way you move. Try to survive. Go ahead!
 # to the lower class
